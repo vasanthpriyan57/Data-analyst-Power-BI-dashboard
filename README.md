@@ -23,29 +23,29 @@ What are the top 5 KPIs management should monitor daily/weekly?
 ## Process
 Business Understanding
 Identified AtliQ Grands' core problems: decline in revenue, market share, and performance in luxury/business hotel segments. Defined the scope of the analytics intervention.
-# Stakeholder Alignment
+Stakeholder Alignment
 Engaged in real-time discussions with domain experts (Abhishek Anand) and analytics lead (Hemanand) to clarify business objectives and KPIs.
-# Data Collection
+#Data Collection
 Gathered data from multiple internal sources: hotel booking systems, revenue reports, market segments, and occupancy logs.
 #Data Cleaning & Transformation
 Cleaned missing or duplicate values, standardized formats, and transformed raw data using Power Query Editor in Power BI.
-# Data Modeling
+#Data Modeling
 Designed an efficient star schema with fact and dimension tables. Created relationships and hierarchies to support analytical queries.
-# DAX Measures & KPIs
+#DAX Measures & KPIs
 Defined critical performance metrics such as:
 Total Revenue
 Average Daily Rate (ADR)
 Revenue per Available Room (RevPAR)
 Occupancy Rate
 Month-over-Month (MoM) and Year-over-Year (YoY) growth
-# Dashboard Design
+#Dashboard Design
 Built intuitive and interactive dashboards using visuals like bar charts, line charts, slicers, cards, and tooltips. Key pages included:
 Executive Overview
 Revenue & Occupancy Analysis
 Hotel & Channel Performance
 #Insight Generation
 Identified trends, bottlenecks, and strategic opportunities—such as underperforming branches, channel cost inefficiencies, and low ADR in business segments.
-# Recommendations & Action Plan
+#Recommendations & Action Plan
 Delivered actionable insights to stakeholders, including pricing adjustments, marketing strategies, and operational improvements. Enabled data-driven decisions across departments.
 
 
