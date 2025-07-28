@@ -7,3 +7,4 @@ decisions. To counter this, AtliQ Grands' managing director plans to adopt
 "Business and Data Intelligence" with the help of industry expert Abhishek
 Anand (OYO's revenue manager)
 
+- <a href ="https://github.com/vasanthpriyan57/Data-analyst-Power-BI-dashboard/blob/main/Data%20analyst%20Power%20Bi%20project.pbix">Dataset</a>
